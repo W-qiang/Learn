@@ -1,0 +1,2 @@
+include ':01-view-coordinate'
+rootProject.name = "CustomView"
